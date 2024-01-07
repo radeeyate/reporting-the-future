@@ -95,6 +95,8 @@ Average temp/typical weather (2100):
         *   Adults (18-64): ~10,000
         *   Children (5-17): 9,000
         *   Babies (0-4): ~700 newborns each year
+    
+    ![Distribution of Nova Terra Population](./Figure_3.png)
 
     *   Waves of population:
         *   Early Waves (2050-2070):

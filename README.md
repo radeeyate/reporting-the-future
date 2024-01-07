@@ -3,32 +3,46 @@
 ## Average temp/typical weather (beginning of the 21st century)
 
 *   Average temps:
-    *   Summer (June-August): Days were warm and sunny, with average highs around 78°F (26°C) and lows dipping to a crisp 50°F (10°C).
-    *   Winer (December-February): Things got chillier, with average highs hovering around 35°F (1°C) and lows plunging to 15°F (-9°C). Snowfall was a regular visitor, blanketing Montana in a white coat turning the ski slopes into a winter wonderland.
-    *   Spring (March-May) and Fall (September-November): These seasons were transitional periods, with temperatures fluctuating between the extremes of summer and winter. Spring brought gentle thaws and the promise of blooming wildflowers, while fall painted the landscape in warm hues of orange, red, and yellow.
+    *   Summer (June-August): 
+        * Days were warm and sunny, with average highs around 78°F (26°C) and lows dipping to a crisp 50°F (10°C).
+    *   Winter (December-February): 
+        * Things got chillier, with average highs hovering around 35°F (1°C) and lows plunging to 15°F (-9°C). Snowfall was a regular visitor, blanketing Montana in a white coat turning the ski slopes into a winter wonderland.
+    *   Spring (March-May) and Fall (September-November):
+        * These seasons were transitional periods, with temperatures fluctuating between the extremes of summer and winter. Spring brought gentle thaws and the promise of blooming wildflowers, while fall painted the landscape in warm hues of orange, red, and yellow.
 
 *   Typical weather:
-    *   Sunshine: Montana enjoyed an average of 300 sunny days per year, making it a bright and cheerful place to live
-    *   Precipitation: Rainfall averaged around 14 inches annually, spread fairly evenly throughout the year. The occasional thunderstorm could roll though, but most rain arrived gently, nourishing Montana without causing floods
-    *   Wind: Montana wasn’t known for its strong winds, with breezes usually being mild and pleasant.
+    *   Sunshine:
+        * Montana enjoyed an average of 300 sunny days per year, making it a bright and cheerful place to live
+    *   Precipitation:
+        * Rainfall averaged around 14 inches annually, spread fairly evenly throughout the year. The occasional thunderstorm could roll though, but most rain arrived gently, nourishing Montana without causing floods
+    *   Wind:
+        * Montana wasn’t known for its strong winds, with breezes usually being mild and pleasant.
 
 ![Average Montana Weather in 2023](./Figure_2.png)
-
+---
 Average temp/typical weather (2100):
 
 *   Average temps:
-    *   Summer (June-August): Average highs soar to a searing 95°F (25°C), with heat waves pushing the mercury past 110°F (43°C).
-    *   Winter (December-February): Winters have become shorter and milder, with average highs hovering around 45°F (7°C) and lows rarely dipping below 20°F (-7°C). Snowfall is a rare visitor, replaced by sporadic rain showers that offer little respite from the overall aridity.
-    *   Spring (March-May) and Fall (September-November): The shoulder seasons have morphed into extended periods of summer-like heat, with temperatures often exceeding 80°F (27°C) even in March and November. Forget the gradual transitions of the past; 2100 throws you straight into sweltering heat or bone-dry chills, with barely a breath of spring or fall in between.
+    *   Summer (June-August): 
+        * Average highs soar to a searing 95°F (25°C), with heat waves pushing the mercury past 110°F (43°C).
+    *   Winter (December-February): 
+        * Winters have become shorter and milder, with average highs hovering around 45°F (7°C) and lows rarely dipping below 20°F (-7°C). Snowfall is a rare visitor, replaced by sporadic rain showers that offer little respite from the overall aridity.
+    *   Spring (March-May) and Fall (September-November): 
+        * The shoulder seasons have morphed into extended periods of summer-like heat, with temperatures often exceeding 80°F (27°C) even in March and November. Forget the gradual transitions of the past; 2100 throws you straight into sweltering heat or bone-dry chills, with barely a breath of spring or fall in between.
 
 *   Precipitation:
-    *   Goodbye steady rains: The dependable rainfall patterns of 2024 are a distant memory. Erratic weather dominates, with long stretches of drought punctuated by sudden, intense downpours that cause flash floods and wreak havoc on the parched land.
-    *   Welcome, dust storms: Prepare for a sky choked with dust. The lack of regular rainfall and increased frequency of droughts have turned the fertile plains into tinderboxes, prone to vicious dust storms that whip across the landscape, carrying particles that clog lungs and turn day into a surreal, orange twilight.
+    *   Goodbye steady rains: 
+        * The dependable rainfall patterns of 2024 are a distant memory. Erratic weather dominates, with long stretches of drought punctuated by sudden, intense downpours that cause flash floods and wreak havoc on the parched land.
+    *   Welcome, dust storms: 
+        * Prepare for a sky choked with dust. The lack of regular rainfall and increased frequency of droughts have turned the fertile plains into tinderboxes, prone to vicious dust storms that whip across the landscape, carrying particles that clog lungs and turn day into a surreal, orange twilight.
 
 *   Weather events:
-    *   Heatwaves: These are no longer fleeting inconveniences. Extended periods of scorching temperatures, often lasting weeks, become a regular occurrence, straining infrastructure, impacting health, and forcing drastic adaptations to daily life.
-    *   Wildfires: The ever-present dryness and intense heat create a perfect recipe for wildfires. These infernos rage with unprecedented ferocity, devouring vast swathes of land and spewing smoke that casts a pall over the region for weeks.
-    *   Flash floods: When the rain finally arrives, it often comes in concentrated bursts, overwhelming the parched earth and leading to sudden, destructive flash floods. These torrents carve through canyons inundate roads, and threaten communities that were once miles from any major body of water.
+    *   Heatwaves: 
+        * These are no longer fleeting inconveniences. Extended periods of scorching temperatures, often lasting weeks, become a regular occurrence, straining infrastructure, impacting health, and forcing drastic adaptations to daily life.
+    *   Wildfires: 
+        * The ever-present dryness and intense heat create a perfect recipe for wildfires. These infernos rage with unprecedented ferocity, devouring vast swathes of land and spewing smoke that casts a pall over the region for weeks.
+    *   Flash floods:
+        * When the rain finally arrives, it often comes in concentrated bursts, overwhelming the parched earth and leading to sudden, destructive flash floods. These torrents carve through canyons inundate roads, and threaten communities that were once miles from any major body of water.
 
 ## Actions taken to prevent global warming:
 *   Renewable energy revolution:
@@ -50,29 +64,37 @@ Average temp/typical weather (2100):
 
 *   Natural Cycles:
 
-    *   Solar activity: The sun's output fluctuated over the decade. While the overall trend was towards increased warming, periods of low solar activity might have temporarily slowed the increase in global temperatures.
-    *   Volcanic eruptions: Major volcanic eruptions can insect large amounts of dust and aerosols into the atmosphere, temporarily reflecting sunlight back into space, cooling the earth.
-    *   Ocean currents: Changes in ocean currents, like the Atlantic Meridional Overturning Circulation (AMOC), can disrupt heat distribution and influence regional climates. While significant shifts in AMOC haven’t been definitively observed yet, its potential impact is closely monitored.
+    *   Solar activity:
+        * The sun's output fluctuated over the decade. While the overall trend was towards increased warming, periods of low solar activity might have temporarily slowed the increase in global temperatures.
+    *   Volcanic eruptions:
+        * Major volcanic eruptions can insect large amounts of dust and aerosols into the atmosphere, temporarily reflecting sunlight back into space, cooling the earth.
+    *   Ocean currents: 
+        * Changes in ocean currents, like the Atlantic Meridional Overturning Circulation (AMOC), can disrupt heat distribution and influence regional climates. While significant shifts in AMOC haven’t been definitively observed yet, its potential impact is closely monitored.
 
 ## Mars Situation:
 
 *   By 2100, a thriving Martian colony, christened “Nova Terra” in 2050,  hums with life. Nestled in the Valles Marineris canyon, shielded by advanced domes and intricate life-support systems, Nova Terra stands as a testament to human ingenuity and perseverance.
 *   Challenges and Solutions:
-    *   The harsh, Martian environment: Radiation, extreme temperatures, and a thin atmosphere posed formidable challenges. To combat these, colonists live in pressurized habitats with advanced radiation shielding and temperature regulation systems. They utilize innovative greenhouses and aquaponics systems for sustainable food production, carefully managing precious water resources.
-    *   Psychological strain and isolation: Living in a confined environment, millions of kilometers from Earth, is quite mentally taxing for some. To address this, colonists have access to advanced virtual reality technology and robust psychological support systems. They foster a strong community spirit, celebrating shared milestones and cherishing the unique Martian landscape.
-    *   Technical hurdles and resource limitations: Building and maintaining a self-sustaining colony on Mars required constant innovation. 3D printing technology played a crucial role in constructing habitats and infrastructure using locally sourced materials. Resource extraction and recycling became vital, minimizing reliance on Earth for supplies.
+    *   The harsh, Martian environment: 
+        * Radiation, extreme temperatures, and a thin atmosphere posed formidable challenges. To combat these, colonists live in pressurized habitats with advanced radiation shielding and temperature regulation systems. They utilize innovative greenhouses and aquaponics systems for sustainable food production, carefully managing precious water resources.
+    *   Psychological strain and isolation: 
+        * Living in a confined environment, millions of kilometers from Earth, is quite mentally taxing for some. To address this, colonists have access to advanced virtual reality technology and robust psychological support systems. They foster a strong community spirit, celebrating shared milestones and cherishing the unique Martian landscape.
+    *   Technical hurdles and resource limitations:
+        * Building and maintaining a self-sustaining colony on Mars required constant innovation. 3D printing technology played a crucial role in constructing habitats and infrastructure using locally sourced materials. Resource extraction and recycling became vital, minimizing reliance on Earth for supplies.
 
 *   The greatest challenges:
-    *   Terraforming: Transforming Mars into a fully Earth-like environment proved a long-term endeavor. While advances in atmospheric manipulation and genetic engineering offered hope, the process remains slow and requires careful monitoring to avoid unforeseen consequences.
-    *   Maintaining economic stability: Establishing a self-sufficient economy on Mars was a complex challenge. Space tourism and research projects provided initial revenue streams, but long-term sustainability required developing unique Martian resources and industries, like asteroid mining and specialized agriculture.
+    *   Terraforming:
+        * Transforming Mars into a fully Earth-like environment proved a long-term endeavor. While advances in atmospheric manipulation and genetic engineering offered hope, the process remains slow and requires careful monitoring to avoid unforeseen consequences.
+    *   Maintaining economic stability:
+        * Establishing a self-sufficient economy on Mars was a complex challenge. Space tourism and research projects provided initial revenue streams, but long-term sustainability required developing unique Martian resources and industries, like asteroid mining and specialized agriculture.
 
 *   Population:
 
     *   Total: ~20,000
         *   Elders (65+): ~1,500
-        *   Adults (18-64): ~12,000
+        *   Adults (18-64): ~10,000
         *   Children (5-17): 9,000
-        *   Babies (0-4): ~1,500 newborns each year
+        *   Babies (0-4): ~700 newborns each year
 
     *   Waves of population:
         *   Early Waves (2050-2070):
